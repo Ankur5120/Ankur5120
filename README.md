@@ -6,7 +6,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ankur5120&label=Profile%20views&color=0e75b6&style=flat" alt="ankur5120" /> </p>
 
 
-- 🌱 I’m currently learning   **TypeScript and NextJS**
+- 🌱 I’m currently learning   ** NextJS**
 
 - 📫 How to reach me **ankurs5120372@gmail.com**
 
